@@ -1,2 +1,3 @@
 # Coffee_Blog
-This is a basic project for a course blog
+
+Este es un proyecto básico para un blog de curso, basado en el tutorial de Desarrollo Web de Juan de la Torre
